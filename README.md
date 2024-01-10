@@ -2,7 +2,7 @@
 
 ## Description
 
-The Max Pain Tracker is a Python-based code that helps you track the "max pain" of a stock over time and analyze whether there are any noticeable patterns. Max pain refers to the point where the option buyers (calls and puts) will experience the most financial loss. This code calculates the max pain using the Open Interest (OI) data of call and put options, and then visualizes it on a graph for easier analysis.
+The Max Pain Tracker is a Python-based code that helps you track the "max pain" of a stock over time and analyze whether there are any noticeable patterns. Max pain refers to the point where the option buyers (calls and puts) will experience the most financial loss. This code calculates the max pain using the Open Interest (OI) data of call and put options, and then visualizes it on a graph for easier analysis (TBD). 
 
 ## Features
 
