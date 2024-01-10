@@ -14,7 +14,7 @@ The Max Pain Tracker is a Python-based code that helps you track the "max pain" 
 
 1. The code retrieves Open Interest (OI) data for call and put options from the chosen data source.
 2. It analyzes the data to calculate the max pain level, considering both the number of contracts (volume) and their strike prices.
-3. The code then generates a graph showing the max pain levels over time, with corresponding dates on the x-axis and pain levels on the y-axis.
+3. The code then generates a graph showing both the stock price and the max pain levels over time.
 4. You can observe the graph and look for any interesting patterns or trends in the maximum pain levels.
 5. Based on the analysis, you may gain insights into how option buyers are impacted and evaluate potential trading strategies.
 
